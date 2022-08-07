@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bem-vindos ! Eu sou o Wesley Kennedy</h1>
 <h3 align="center">Um cara apaixonado por Front-End e chocolate</h3>
 
-- 🔭 Atualmente fazendo projetos independentes de Javascript com foco em React.Js [Barbearia Coronel Kenn](https://kennedywes.github.io/CoronelKenn_BarberShop/)
+- 🔭 Atualmente fazendo projetos independentes de Javascript com foco em React.Js como [Barbearia Coronel Kenn](https://kennedywes.github.io/CoronelKenn_BarberShop/)
 
 - 🌱 Atualmente me especializando em Front-End com foco em **Javascript e React.Js**
 
