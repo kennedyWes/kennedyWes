@@ -1,5 +1,5 @@
-<h1 align="center">👋 Bem-vindos ! Eu sou o Wesley Kennedy</h1>
-<h3 align="center">Um cara apaixonado por Front-End e chocolate</h3>
+<h1 align="center">👋 Welcome ! I am Wesley Kennedy</h1>
+<h3 align="center">A guy in love with Front End and chocolate</h3>
 
 - 🔭 Currently doing independent Javascript projects with a focus on React.Js like this one [Barbearia Coronel Kenn](https://kennedywes.github.io/CoronelKenn_BarberShop/)
 
