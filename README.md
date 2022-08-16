@@ -1,19 +1,19 @@
 <h1 align="center">👋 Bem-vindos ! Eu sou o Wesley Kennedy</h1>
 <h3 align="center">Um cara apaixonado por Front-End e chocolate</h3>
 
-- 🔭 Atualmente fazendo projetos independentes de Javascript com foco em React.Js como esse aqui [Barbearia Coronel Kenn](https://kennedywes.github.io/CoronelKenn_BarberShop/)
+- 🔭 Currently doing independent Javascript projects with a focus on React.Js like this one [Barbearia Coronel Kenn](https://kennedywes.github.io/CoronelKenn_BarberShop/)
 
-- 🌱 Atualmente me especializando em Front-End com foco em **Javascript e React.Js**
+- 🌱 Currently specializing in Front-End with a focus on **Javascript e React.Js**
 
-- 👯 Trabalho também como Gerente Comercial aqui [Khelf](https://www.khelf.com.br/)
+- 👯 I also work as a Commercial Manager here [Khelf](https://www.khelf.com.br/)
 
-- 👨‍💻 Todos os meus projetos você encontra no [https://github.com/kennedyWes](https://github.com/kennedyWes)
+- 👨‍💻 All my projects you can find on [https://github.com/kennedyWes](https://github.com/kennedyWes)
 
-- 💬 Me pergunte sobre **HTML, CSS, Javascript, React.Js**
+- 💬 Ask me about **HTML, CSS, Javascript, React.Js**
 
-- 📫 Você me encontra aqui **kennedy.wesleyk@gmail.com**
+- 📫 You find me here **kennedy.wesleyk@gmail.com**
 
-- 📄 Sobre as minhas experiências: https://www.linkedin.com/in/wesley-kennedy
+- 📄 About my experiences: https://www.linkedin.com/in/wesley-kennedy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
