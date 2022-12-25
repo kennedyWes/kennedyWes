@@ -5,8 +5,10 @@
 
 - 🌱 Currently specializing in Front-End with a focus on **Javascript e React.Js**
 
-- 👯 I also work as a Commercial Manager here [Khelf](https://www.khelf.com.br/)
+- 👯 Currently i work as a Front-End Developer here [Magni Finance](https://www.magnifinance.com/)
 
+- 👯 I also work as a Commercial Manager here [Oficina Reserva](https://www.oficinareserva.com.br/)
+ 
 - 👨‍💻 All my projects you can find on [https://github.com/kennedyWes](https://github.com/kennedyWes)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React.Js**
